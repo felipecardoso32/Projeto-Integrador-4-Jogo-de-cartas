@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CharacterCardData
   nomePersonagem: Guerreiro
   descricao: Blablablabla
-  imagem: {fileID: 0}
+  imagem: {fileID: 21300000, guid: 6c14859e1f9844e2eb2e5a13933648b7, type: 3}
   vidaBase: 100
   danoMinimoBase: 10
   danoMaximoBase: 20
