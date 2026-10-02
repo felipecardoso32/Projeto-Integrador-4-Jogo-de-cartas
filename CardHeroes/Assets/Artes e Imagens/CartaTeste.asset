@@ -12,9 +12,37 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc55139a02c234b77bef643a76978ecb, type: 3}
   m_Name: CartaTeste
   m_EditorClassIdentifier: Assembly-CSharp::CharacterCardData
-  nomePersonagem: Guerreiro
-  descricao: Blablablabla
-  imagem: {fileID: 21300000, guid: 6c14859e1f9844e2eb2e5a13933648b7, type: 3}
+  nomePersonagem: "## Eldren, o Guardi\xE3o das Sete Runas"
+  descricao: "1. Eldren era aprendiz no observat\xF3rio de Arkanor quando as estrelas
+    mudaram de lugar.\n2. Os mestres chamaram o fen\xF4meno de ilus\xE3o e proibiram
+    novas perguntas.\n3. Ele, por\xE9m, copiou o desenho celeste em sete placas de
+    cobre.\n4. Cada placa revelou uma runa quando tocada pela luz da lua.\n5. A primeira
+    falava do fogo, e a segunda, das mar\xE9s escondidas.\n6. A terceira mostrava
+    caminhos que n\xE3o existiam em mapa algum.\n7. As demais permaneciam silenciosas,
+    aguardando acontecimentos ainda distantes.\n8. Ao apresentar a descoberta, Eldren
+    foi acusado de heresia arcana.\n9. Expulso da torre, levou apenas seu manto e
+    as placas proibidas.\n10. Vagou por bibliotecas arruinadas em busca da l\xEDngua
+    das runas.\n11. Em uma cripta \xE9lfica, aprendeu que os s\xEDmbolos selavam
+    antigas calamidades.\n12. Cada runa era ao mesmo tempo chave, aviso e parte de
+    uma pris\xE3o.\n13. Eldren compreendeu que algu\xE9m movera as estrelas para
+    enfraquecer os selos.\n14. Desde ent\xE3o, dedicou a vida a impedir o retorno
+    do Vazio Coroado.\n15. Seu cajado foi talhado da \xE1rvore atingida pelo primeiro
+    raio do inverno.\n16. Na ponta, ele guarda a placa da runa que controla a mem\xF3ria.\n17.
+    Com ela, o mago pode revelar verdades esquecidas por uma cidade inteira.\n18.
+    O poder cobra um pre\xE7o: cada uso apaga uma lembran\xE7a pessoal.\n19. Eldren
+    j\xE1 n\xE3o recorda o rosto da m\xE3e nem o som da pr\xF3pria inf\xE2ncia.\n20.
+    Ainda assim, mant\xE9m um di\xE1rio para preservar quem um dia foi.\n21. Ele
+    fala com gentileza, mesmo diante daqueles que zombaram de seus alertas.\n22.
+    Prefere vencer com conhecimento, mas domina tempestades quando necess\xE1rio.\n23.
+    Seus inimigos o chamam de velho louco das estrelas partidas.\n24. Seus aliados
+    sabem que cada sil\xEAncio dele esconde um c\xE1lculo cuidadoso.\n25. A quinta
+    runa despertou quando o rei desapareceu sob a Montanha Partida.\n26. A sexta
+    brilhou durante tr\xEAs noites sobre o mapa de Valedouro.\n27. Somente a s\xE9tima
+    continua escura e fria em suas m\xE3os.\n28. Eldren acredita que ela despertar\xE1
+    quando um her\xF3i trair os demais.\n29. Por isso, observa os companheiros com
+    esperan\xE7a e dolorosa desconfian\xE7a.\n30. At\xE9 o \xFAltimo selo ruir, ele
+    carregar\xE1 sozinho o peso das sete runas."
+  imagem: {fileID: 21300000, guid: 3325134dfc2aa44e5b658cafe3dfbf5f, type: 3}
   vidaBase: 100
   danoMinimoBase: 10
   danoMaximoBase: 20
