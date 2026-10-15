@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc55139a02c234b77bef643a76978ecb, type: 3}
+  m_Name: CartaMaldrik
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterCardData
+  nomePersonagem: "Sir Maldrik, o Cavaleiro da Podrid\xE3o"
+  descricao: "Maldrik j\xE1 foi o mais celebrado defensor das fronteiras pantanosas.\nSua
+    ordem protegia vilarejos esquecidos por nobres e cobradores de impostos.\nQuando
+    uma peste verde surgiu, ele pediu curandeiros \xE0 capital.\nA resposta ordenava
+    fechar as estradas e abandonar os doentes.\nMaldrik desobedeceu e permaneceu
+    ao lado de seu povo.\nDurante quarenta dias, enterrou amigos enquanto a pr\xF3pria
+    pele adoecia.\nNerovath apareceu oferecendo uma cura que nenhum sacerdote possu\xEDa.\nO
+    cavaleiro aceitou sem perguntar qual seria o pre\xE7o.\nA peste cessou, mas todos
+    os sobreviventes passaram a respirar pela vontade do bruxo.\nMaldrik tornou-se
+    o primeiro deles, preso dentro da armadura selada.\nSeu cora\xE7\xE3o n\xE3o
+    bate, embora ele recorde cada momento da antiga vida.\nN\xE9voa venenosa escapa
+    das juntas corro\xEDdas quando sente raiva.\nA espada espalha a doen\xE7a que
+    ele jurou combater.\nNerovath o chama de prova de que a obedi\xEAncia pode vencer
+    a morte.\nMaldrik odeia o bruxo, mas qualquer tentativa de atac\xE1-lo paralisa
+    seus membros.\nAssim, serve como general das tropas que marcham pelos p\xE2ntanos.\nEle
+    ordena ataques cru\xE9is enquanto procura brechas nas palavras recebidas.\nQuando
+    mandado a destruir uma aldeia, interpreta que casas vazias bastam.\nSecretamente,
+    deixa rotas abertas para que moradores escapem.\nAlguns acreditam que isso prova
+    a exist\xEAncia de honra sob o elmo.\nOutros dizem que apenas prolonga o sofrimento
+    para alimentar sua culpa.\nMaera conheceu Maldrik antes da peste e ainda carrega
+    uma medalha dada por ele.\nAo encontr\xE1-lo novamente, recusou-se a acreditar
+    que o antigo her\xF3i desaparecera.\nA voz dela fez o cavaleiro deter a espada
+    por um \xFAnico segundo.\nEsse segundo foi suficiente para vinte soldados fugirem.\nAgora
+    Maldrik procura a runa capaz de devolver mem\xF3rias \xE0 mat\xE9ria morta.\nTalvez
+    ela quebre o comando de Nerovath ou apenas revele dores esquecidas.\nEle n\xE3o
+    espera perd\xE3o pelos crimes cometidos sob as correntes.\nDeseja somente escolher
+    a dire\xE7\xE3o de seu \xFAltimo golpe.\nSe recuperar a liberdade, a primeira
+    cabe\xE7a que buscar\xE1 usar\xE1 uma coroa de ossos."
+  imagem: {fileID: 21300000, guid: 47b00e50de8394468a0764b00375c027, type: 3}
+  vidaBase: 100
+  danoMinimoBase: 10
+  danoMaximoBase: 20
+  forca: 0
+  velocidade: 0
+  destreza: 0
+  intelecto: 0
+  raiva: 0
+  pontosTotais: 20
+  atributoMaximo: 10
+  bonusRaiva: 0.6
+  esquivaPorPonto: 0.03
+  destrezaPorPonto: 0.03
+  criticoPorPonto: 0.03
+  multiplicadorCritico: 1.5

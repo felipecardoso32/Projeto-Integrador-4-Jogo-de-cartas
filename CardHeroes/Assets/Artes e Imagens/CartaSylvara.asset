@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc55139a02c234b77bef643a76978ecb, type: 3}
+  m_Name: CartaSylvara
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterCardData
+  nomePersonagem: "Sylvara Nocticanto, L\xE2mina do V\xE9u"
+  descricao: "Sylvara foi criada no Templo do V\xE9u, onde crian\xE7as aprendiam
+    a caminhar sem produzir eco.\nSua fam\xEDlia a entregou aos sacerdotes em troca
+    do perd\xE3o de uma d\xEDvida.\nEla cresceu acreditando que afeto era apenas
+    outra forma de distra\xE7\xE3o.\nAos vinte anos, tornou-se a melhor assassina
+    entre os elfos subterr\xE2neos.\nSuas l\xE2minas curvas receberam os nomes Sussurro
+    e Despedida.\nA primeira paralisa; a segunda encerra o trabalho sem dor.\nSylvara
+    nunca falhou at\xE9 receber a ordem de matar uma crian\xE7a humana.\nA v\xEDtima
+    era herdeira de um tratado capaz de terminar uma guerra antiga.\nDiante do ber\xE7o,
+    a assassina descobriu que ainda podia escolher.\nEla fugiu com a crian\xE7a e
+    a deixou em seguran\xE7a num mosteiro distante.\nO Templo do V\xE9u apagou seu
+    nome e enviou ca\xE7adores atr\xE1s dela.\nDurante anos, Sylvara sobreviveu vendendo
+    segredos para lados rivais.\nNerovath encontrou-a e ofereceu destruir todos os
+    registros de sua trai\xE7\xE3o.\nEm troca, exigiu que ela eliminasse os portadores
+    das sete runas.\nSylvara aceitou, embora soubesse que promessas de bruxos escondem
+    correntes.\nSeu primeiro alvo foi Eldren, que a reconheceu antes do ataque.\nO
+    mago pronunciou o nome que o templo havia apagado.\nPor um instante, ela lembrou
+    quem era antes das li\xE7\xF5es de sil\xEAncio.\nEldren escapou, mas n\xE3o revelou
+    a presen\xE7a da assassina aos guardas.\nDesde ent\xE3o, Sylvara o persegue sem
+    decidir se deseja mat\xE1-lo ou interrog\xE1-lo.\nEla mant\xE9m contratos por
+    disciplina, n\xE3o por prazer ou crueldade.\nCada v\xEDtima recebe uma moeda
+    para pagar a travessia no mundo dos mortos.\nNo fundo da bolsa, h\xE1 uma moeda
+    reservada para ela mesma.\nSylvara descobriu que Nerovath pretende transformar
+    todas as almas em ecos.\nIsso apagaria at\xE9 a possibilidade de escolha que
+    um dia salvou a crian\xE7a.\nMesmo assim, romper o contrato faria o templo descobrir
+    onde a herdeira vive.\nA assassina caminha entre dois senhores que acreditam
+    possuir sua vontade.\nEla prepara uma terceira sa\xEDda, constru\xEDda com segredos
+    roubados de ambos.\nQuando atacar, ningu\xE9m ouvir\xE1 seus passos at\xE9 as
+    correntes j\xE1 estarem partidas.\nResta saber se sua \xFAltima l\xE2mina encontrar\xE1
+    um her\xF3i, um vil\xE3o ou o pr\xF3prio peito."
+  imagem: {fileID: 21300000, guid: 4f6925d55e9884a0eae86e9f47fa8da3, type: 3}
+  vidaBase: 100
+  danoMinimoBase: 10
+  danoMaximoBase: 20
+  forca: 0
+  velocidade: 0
+  destreza: 0
+  intelecto: 0
+  raiva: 0
+  pontosTotais: 20
+  atributoMaximo: 10
+  bonusRaiva: 0.6
+  esquivaPorPonto: 0.03
+  destrezaPorPonto: 0.03
+  criticoPorPonto: 0.03
+  multiplicadorCritico: 1.5

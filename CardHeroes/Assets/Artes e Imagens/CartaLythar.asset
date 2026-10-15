@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc55139a02c234b77bef643a76978ecb, type: 3}
+  m_Name: CartaLythar
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterCardData
+  nomePersonagem: Lythar Folhalume, Arqueiro da Lua Verde
+  descricao: "Lythar nasceu entre as ra\xEDzes luminosas da Floresta de Elarin.\nSeu
+    povo ensinava que toda flecha devia ter um motivo antes de ter um alvo.\nEle
+    passou cinquenta invernos sem disparar contra qualquer criatura viva.\nPreferia
+    mapear fontes, trilhas de cervos e \xE1rvores que cantavam ao vento.\nTudo mudou
+    quando lenhadores encontraram uma pedra negra sob um carvalho.\nA pedra sussurrou
+    durante a noite e envenenou os sonhos da aldeia.\nCompanheiros de Lythar despertaram
+    violentos, com olhos cobertos por sombras.\nSem conseguir cur\xE1-los, ele precisou
+    det\xEA-los antes que alcan\xE7assem outras aldeias.\nCada flecha lan\xE7ada
+    naquela madrugada partiu tamb\xE9m algo dentro dele.\nDepois, jurou encontrar
+    quem havia enterrado a pedra amaldi\xE7oada.\nSeu arco, Folhalume, foi moldado
+    de um galho oferecido pela pr\xF3pria floresta.\nA madeira se curva apenas para
+    quem escuta a voz das ra\xEDzes.\nLythar seguiu corvos sem sombra at\xE9 as fronteiras
+    dos reinos humanos.\nAli descobriu dezenas de pedras iguais escondidas em po\xE7os
+    e templos.\nAlgu\xE9m preparava uma corrup\xE7\xE3o capaz de transformar povos
+    inteiros em servos.\nEmbora desconfiasse dos humanos, ele pediu ajuda \xE0 guarda
+    de Valedouro.\nAldara acreditou em sua hist\xF3ria e ordenou a destrui\xE7\xE3o
+    dos fragmentos.\nDesde ent\xE3o, os dois protegem caminhos diferentes para a
+    mesma guerra.\nLythar fala pouco, mas conhece o nome de cada p\xE1ssaro que encontra.\nEle
+    nunca desperdi\xE7a alimento, madeira ou uma promessa feita.\nSuas flechas verdes
+    podem atravessar neblina sem perder o rumo.\nContra monstros corrompidos, utiliza
+    pontas de prata banhadas em seiva lunar.\nContra pessoas, busca sempre desarmar
+    antes de ferir.\nA \xFAnica exce\xE7\xE3o \xE9 o respons\xE1vel pela queda de
+    sua aldeia.\nEsse inimigo usa um anel com o s\xEDmbolo de uma coroa sem rosto.\nLythar
+    encontrou o mesmo sinal nas ru\xEDnas da Montanha Partida.\nAgora ele atravessa
+    terras abertas, longe das \xE1rvores que lhe davam conforto.\nCarrega no peito
+    uma folha preservada da \xE1rvore onde nasceu.\nSe vencer, pretende replant\xE1-la
+    no centro da aldeia perdida.\nSe cair, espera que suas flechas mostrem aos outros
+    o caminho correto."
+  imagem: {fileID: 21300000, guid: 95d5e64e684644b26912bf8981c88d82, type: 3}
+  vidaBase: 100
+  danoMinimoBase: 10
+  danoMaximoBase: 20
+  forca: 0
+  velocidade: 0
+  destreza: 0
+  intelecto: 0
+  raiva: 0
+  pontosTotais: 20
+  atributoMaximo: 10
+  bonusRaiva: 0.6
+  esquivaPorPonto: 0.03
+  destrezaPorPonto: 0.03
+  criticoPorPonto: 0.03
+  multiplicadorCritico: 1.5

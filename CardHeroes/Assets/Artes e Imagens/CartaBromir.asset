@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc55139a02c234b77bef643a76978ecb, type: 3}
+  m_Name: CartaBromir
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterCardData
+  nomePersonagem: "Bromir Quebra-Presas, Ca\xE7ador do Ermo"
+  descricao: "Bromir nasceu no sal\xE3o subterr\xE2neo de Kar-Dur, onde monstros
+    eram hist\xF3rias distantes.\nComo artes\xE3o, fabricava fechaduras t\xE3o complexas
+    que nem ele conseguia abri-las depressa.\nSua vida mudou quando uma fera escavadora
+    rompeu o teto da grande forja.\nO monstro devorava metal e crescia a cada golpe
+    recebido.\nBromir percebeu que armas comuns apenas alimentavam a criatura.\nEle
+    prendeu a fera com correntes de couro e derrubou sobre ela \xE1gua congelada.\nA
+    vit\xF3ria improvisada transformou o chaveiro em ca\xE7ador do cl\xE3.\nNos anos
+    seguintes, estudou rastros, venenos e h\xE1bitos de criaturas raras.\nPara Bromir,
+    conhecer o inimigo sempre vale mais que possuir uma arma maior.\nSua besta pesada
+    dispara virotes preparados para cada tipo de couro ou escama.\nEle guarda dentes
+    das feras abatidas, mas nunca os exibe por orgulho.\nCada trof\xE9u recorda um
+    erro que quase custou uma vida.\nQuando minas distantes come\xE7aram a ficar
+    silenciosas, Bromir investigou sozinho.\nEncontrou t\xFAneis vazios e o s\xEDmbolo
+    de uma coroa sem rosto nas paredes.\nAs criaturas n\xE3o haviam atacado os mineiros;
+    algu\xE9m as estava conduzindo.\nO rastro levou at\xE9 mercadores que vendiam
+    ovos de monstros aos ex\xE9rcitos.\nBromir destruiu o carregamento, mas o chefe
+    do com\xE9rcio escapou.\nDesde ent\xE3o, ca\xE7a n\xE3o apenas feras, mas tamb\xE9m
+    aqueles que as escravizam.\nEle resmunga diante de magia, embora carregue seis
+    amuletos encantados.\nCozinha melhor do que admite e sempre prepara por\xE7\xF5es
+    extras.\nSeu humor \xE1spero esconde uma paci\xEAncia incomum com crian\xE7as
+    e animais.\nBromir conheceu Lythar ao perseguir a mesma mant\xEDcora corrompida.\nOs
+    dois discutiram durante horas sobre quem havia encontrado o primeiro rastro.\nNo
+    fim, dividiram a ca\xE7a e uma amizade que nenhum deles reconhece em voz alta.\nAgora
+    o an\xE3o segue os t\xFAneis sob a Montanha Partida.\nAli, milhares de pegadas
+    monstruosas convergem para uma cidade esquecida.\nBromir sabe que sua besta n\xE3o
+    possui virotes suficientes para o que vir\xE1.\nMesmo assim, afia cada ponta
+    e registra tudo em seu caderno de couro.\nSe sobreviver, o conhecimento impedir\xE1
+    que outros repitam seus erros.\nSe n\xE3o sobreviver, espera ao menos quebrar
+    presas suficientes no caminho."
+  imagem: {fileID: 21300000, guid: b9c3d566cf8e843399bd0216fa887f21, type: 3}
+  vidaBase: 100
+  danoMinimoBase: 10
+  danoMaximoBase: 20
+  forca: 0
+  velocidade: 0
+  destreza: 0
+  intelecto: 0
+  raiva: 0
+  pontosTotais: 20
+  atributoMaximo: 10
+  bonusRaiva: 0.6
+  esquivaPorPonto: 0.03
+  destrezaPorPonto: 0.03
+  criticoPorPonto: 0.03
+  multiplicadorCritico: 1.5

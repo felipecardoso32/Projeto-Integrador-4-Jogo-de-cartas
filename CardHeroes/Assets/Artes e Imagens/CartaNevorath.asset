@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc55139a02c234b77bef643a76978ecb, type: 3}
+  m_Name: CartaNevorath
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterCardData
+  nomePersonagem: Nerovath, o Bruxo da Coroa Oca
+  descricao: "Nerovath foi conselheiro real antes que qualquer retrato registrasse
+    seu rosto.\nEle surgia em cada gera\xE7\xE3o com outro nome e a mesma voz tranquila.\nOs
+    reis acreditavam que seus conselhos vinham de uma linhagem de s\xE1bios.\nNa
+    verdade, o bruxo transferia a pr\xF3pria alma para corpos preparados.\nSeu primeiro
+    corpo pertencera a um sacerdote obcecado pela vida eterna.\nAo falhar em salvar
+    a fam\xEDlia da peste, ele passou a odiar a morte.\nNerovath concluiu que somente
+    um reino sem vontade poderia viver para sempre.\nDurante s\xE9culos, provocou
+    guerras pequenas para enfraquecer alian\xE7as duradouras.\nEnterrou pedras negras
+    em florestas, po\xE7os e sal\xF5es subterr\xE2neos.\nCada fragmento roubava sonhos
+    e os enviava para uma coroa de ossos.\nCom esses sonhos, o bruxo alimentava o
+    Vazio Coroado sob a montanha.\nTamb\xE9m falsificava ordens, comprava mercadores
+    e criava herdeiros obedientes.\nQuando o rei atual descobriu a conspira\xE7\xE3o,
+    Nerovath o aprisionou vivo.\nO soberano tornou-se a \xFAltima chave necess\xE1ria
+    para abrir a pris\xE3o antiga.\nNerovath n\xE3o deseja destruir o reino, mas
+    congel\xE1-lo em obedi\xEAncia perfeita.\nEm sua vis\xE3o, ningu\xE9m passaria
+    fome, discutiria ou escolheria caminhos perigosos.\nTodos viveriam para sempre
+    como ecos ligados \xE0 sua mente.\nEle chama essa condena\xE7\xE3o de paz e acredita
+    sinceramente em sua bondade.\nA coroa de ossos permite convocar as lembran\xE7as
+    dos corpos anteriores.\nMil vozes aconselham o bruxo, embora algumas comecem
+    a desafi\xE1-lo.\nA mais forte pertence ao sacerdote que ele foi no in\xEDcio.\nEssa
+    voz ainda recorda o amor que motivou sua primeira transgress\xE3o.\nNerovath
+    tenta silenci\xE1-la com novas almas e feiti\xE7os mais cru\xE9is.\nEle teme
+    Aldara porque a coragem dela desperta resist\xEAncia nos dominados.\nTeme Eldren
+    porque o mago compreendeu a fun\xE7\xE3o das sete runas.\nE teme a si mesmo,
+    pois cada troca de corpo apaga parte de sua identidade.\nPor tr\xE1s da serenidade,
+    j\xE1 n\xE3o sabe se comanda as vozes ou \xE9 comandado.\nMesmo assim, prepara
+    o ritual final na cidade sob a Montanha Partida.\nQuando a s\xE9tima runa despertar,
+    ele oferecer\xE1 ao mundo sua paz eterna.\nE toda criatura livre precisar\xE1
+    escolher entre resistir ou tornar-se um eco."
+  imagem: {fileID: -7602139660648939398, guid: 6ec367f3d7e8143dcb8d9045e8e90880, type: 3}
+  vidaBase: 100
+  danoMinimoBase: 10
+  danoMaximoBase: 20
+  forca: 0
+  velocidade: 0
+  destreza: 0
+  intelecto: 0
+  raiva: 0
+  pontosTotais: 20
+  atributoMaximo: 10
+  bonusRaiva: 0.6
+  esquivaPorPonto: 0.03
+  destrezaPorPonto: 0.03
+  criticoPorPonto: 0.03
+  multiplicadorCritico: 1.5

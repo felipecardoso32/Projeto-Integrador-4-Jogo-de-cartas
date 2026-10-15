@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fc55139a02c234b77bef643a76978ecb, type: 3}
-  m_Name: CartaTeste
+  m_Name: CartaEldren
   m_EditorClassIdentifier: Assembly-CSharp::CharacterCardData
   nomePersonagem: "## Eldren, o Guardi\xE3o das Sete Runas"
   descricao: "1. Eldren era aprendiz no observat\xF3rio de Arkanor quando as estrelas

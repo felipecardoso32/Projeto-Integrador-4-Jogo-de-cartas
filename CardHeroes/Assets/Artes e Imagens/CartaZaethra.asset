@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc55139a02c234b77bef643a76978ecb, type: 3}
+  m_Name: CartaZaethra
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterCardData
+  nomePersonagem: "Zarethra, a Voz do Drag\xE3o Adormecido"
+  descricao: "Zarethra nasceu entre sacerdotes que veneravam um vulc\xE3o como divindade
+    silenciosa.\nDesde pequena, escutava palavras surgindo por baixo do rugido das
+    chamas.\nOs anci\xE3os chamaram o dom de b\xEAn\xE7\xE3o e a coroaram or\xE1culo
+    do templo.\nA voz prometia proteger o povo se recebesse ouro, sangue e can\xE7\xF5es.\nDurante
+    anos, Zarethra conduziu rituais e manteve a montanha adormecida.\nEnt\xE3o invasores
+    saquearam o templo e levaram as escamas sagradas.\nO vulc\xE3o despertou, cobrindo
+    cidades inteiras com cinzas.\nZarethra sobreviveu dentro do fogo sem sofrer uma
+    \xFAnica queimadura.\nAli descobriu que a voz pertencia a Vharun, um drag\xE3o
+    aprisionado.\nO monstro n\xE3o era um deus, mas sua f\xFAria ainda podia destruir
+    reinos.\nEm vez de abandonar a f\xE9, ela decidiu libert\xE1-lo e dominar seu
+    poder.\nCada escama roubada tornou-se foco de um culto espalhado pelas cidades.\nSeus
+    seguidores acreditam que renascer\xE3o como drag\xF5es ap\xF3s a grande erup\xE7\xE3o.\nZarethra
+    sabe que a promessa \xE9 falsa e considera isso um detalhe necess\xE1rio.\nEla
+    negocia com Nerovath porque as sete runas tamb\xE9m prendem Vharun.\nO bruxo
+    promete entregar-lhe a sexta quando o Vazio Coroado despertar.\nNenhum dos dois
+    pretende cumprir a pr\xF3pria parte do acordo.\nA feiticeira domina chamas que
+    assumem formas de asas e garras.\nQuanto mais poder invoca, mais escamas surgem
+    sobre sua pele.\nEla esconde a transforma\xE7\xE3o com joias e mantos vermelhos.\n\xC0
+    noite, sonha voando acima de continentes reduzidos a brasas.\nAo despertar, j\xE1
+    n\xE3o sabe se o sonho pertence a ela ou ao drag\xE3o.\nZarethra busca Bromir,
+    pois o an\xE3o carrega uma presa de Vharun entre os trof\xE9us.\nA presa pode
+    ferir o drag\xE3o ou controlar parte de sua vontade.\nPor isso, ela envia monstros
+    menores para cansar o ca\xE7ador sem mat\xE1-lo.\nDeseja arrancar dole a localiza\xE7\xE3o
+    do restante do esqueleto antigo.\nSe conseguir todas as pe\xE7as, poder\xE1 libertar
+    Vharun em um corpo reconstru\xEDdo.\nMas o drag\xE3o sussurra que nenhum corpo
+    ser\xE1 necess\xE1rio por muito tempo.\nA cada ritual, a voz dele soa mais pr\xF3xima
+    de sua pr\xF3pria garganta.\nQuando a montanha se abrir, talvez Zarethra seja
+    a senhora do drag\xE3o ou sua \xFAltima pele."
+  imagem: {fileID: 21300000, guid: 5f71ac8bf24e94affb4a713bd36227cd, type: 3}
+  vidaBase: 100
+  danoMinimoBase: 10
+  danoMaximoBase: 20
+  forca: 0
+  velocidade: 0
+  destreza: 0
+  intelecto: 0
+  raiva: 0
+  pontosTotais: 20
+  atributoMaximo: 10
+  bonusRaiva: 0.6
+  esquivaPorPonto: 0.03
+  destrezaPorPonto: 0.03
+  criticoPorPonto: 0.03
+  multiplicadorCritico: 1.5

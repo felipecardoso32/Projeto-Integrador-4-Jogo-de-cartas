@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc55139a02c234b77bef643a76978ecb, type: 3}
+  m_Name: CartaGorvak
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterCardData
+  nomePersonagem: Gorvak, Senhor das Presas de Ferro
+  descricao: "Gorvak nasceu pequeno para um ogro e sobreviveu aprendendo a pensar
+    antes de atacar.\nSeu cl\xE3 desprezava estrat\xE9gia e media lideran\xE7a apenas
+    pelo tamanho dos punhos.\nEle permitiu que os rivais rissem enquanto estudava
+    suas fraquezas.\nNa noite do desafio tribal, derrubou o chefe sem trocar um \xFAnico
+    golpe.\nGorvak havia serrado o trono de pedra e envenenado o vinho dos guardas.\nAo
+    amanhecer, todos os guerreiros juraram lealdade ao ogro antes considerado fraco.\nEle
+    uniu tribos inimigas oferecendo armas, comida e inimigos em comum.\nFerreiros
+    capturados criaram para ele uma armadura feita de port\xF5es vencidos.\nCada
+    placa conserva o bras\xE3o de uma fortaleza que caiu.\nSeu cutelo, Quebra-Muros,
+    pesa tanto quanto tr\xEAs soldados humanos.\nApesar da for\xE7a, Gorvak prefere
+    vencer antes que a batalha comece.\nEspi\xF5es espalham medo, queimam celeiros
+    e cortam rotas de fuga.\nQuando o ex\xE9rcito chega, cidades famintas frequentemente
+    se rendem sem resist\xEAncia.\nNerovath prometeu ao ogro todas as terras al\xE9m
+    da Montanha Partida.\nGorvak aceitou, mas n\xE3o pretende permanecer servo de
+    um bruxo.\nHe re\xFAne secretamente fragmentos das pedras negras para criar sua
+    pr\xF3pria coroa.\nAcredita que o poder deve pertencer a quem consegue segur\xE1-lo.\nSeus
+    soldados o admiram porque ele divide esp\xF3lios e marcha ao lado deles.\nTamb\xE9m
+    o temem, pois qualquer desobedi\xEAncia termina diante de todo o acampamento.\nGorvak
+    mant\xE9m um mapa com cada derrota marcada em tinta vermelha.\nA marca de Aldara
+    aparece tr\xEAs vezes, mais que qualquer outro advers\xE1rio.\nEle respeita a
+    guerreira e sonha venc\xEA-la em combate diante dos dois ex\xE9rcitos.\nContudo,
+    n\xE3o permitir\xE1 que honra atrapalhe uma vit\xF3ria necess\xE1ria.\nMandar\xE1
+    arqueiros, monstros ou assassinos antes de erguer o pr\xF3prio cutelo.\nSob sua
+    tenda, guarda uma pequena pe\xE7a de madeira entalhada pela m\xE3e.\nNenhum guerreiro
+    conhece esse objeto ou a aldeia onde ele nasceu.\nGorvak destruiu o lugar para
+    apagar a imagem de sua antiga fraqueza.\nAgora comanda milhares, mas ainda escuta
+    os risos do primeiro cl\xE3.\nCada muralha derrubada \xE9 uma resposta que jamais
+    parece suficiente.\nQuando n\xE3o houver fortalezas restantes, talvez descubra
+    que lutava contra fantasmas."
+  imagem: {fileID: 21300000, guid: d9f1e31bc44a6452e9d42ecca1596cb5, type: 3}
+  vidaBase: 100
+  danoMinimoBase: 10
+  danoMaximoBase: 20
+  forca: 0
+  velocidade: 0
+  destreza: 0
+  intelecto: 0
+  raiva: 0
+  pontosTotais: 20
+  atributoMaximo: 10
+  bonusRaiva: 0.6
+  esquivaPorPonto: 0.03
+  destrezaPorPonto: 0.03
+  criticoPorPonto: 0.03
+  multiplicadorCritico: 1.5

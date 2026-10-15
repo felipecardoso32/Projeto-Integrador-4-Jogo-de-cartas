@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc55139a02c234b77bef643a76978ecb, type: 3}
+  m_Name: CartaMaera
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterCardData
+  nomePersonagem: "Maera Valebronze, Lan\xE7a da Coroa"
+  descricao: "Maera cresceu nos est\xE1bulos do Forte Rubro, filha de uma cuidadora
+    de cavalos.\nObservava os lanceiros treinando e repetia seus movimentos com um
+    cabo de vassoura.\nAos quinze anos, venceu tr\xEAs recrutas durante uma aposta
+    proibida.\nA comandante, em vez de puni-la, entregou-lhe uma lan\xE7a de verdade.\nMaera
+    descobriu que disciplina podia transformar velocidade em for\xE7a precisa.\nTreinou
+    at\xE9 conseguir derrubar uma moeda no ar com a ponta da arma.\nSeu primeiro
+    combate ocorreu contra saqueadores vindos do Deserto Cinzento.\nEla protegeu
+    a retirada de quarenta civis por um desfiladeiro estreito.\nA vit\xF3ria lhe
+    rendeu o manto vermelho da Guarda da Coroa.\nTamb\xE9m lhe trouxe a culpa pelos
+    soldados que ficaram para tr\xE1s.\nMaera passou a decorar o nome de cada pessoa
+    sob seu comando.\nPara ela, nenhum guerreiro deveria morrer como simples n\xFAmero
+    de um relat\xF3rio.\nAnos depois, tornou-se capit\xE3 da muralha leste de Valedouro.\nFoi
+    a primeira a perceber que ordens reais estavam sendo falsificadas.\nSelos perfeitos
+    exigiam marchas absurdas e deixavam fortalezas desprotegidas.\nMaera desobedeceu
+    uma dessas ordens e evitou a queda do Forte Rubro.\nPor isso, foi acusada de
+    trai\xE7\xE3o pelos pr\xF3prios conselheiros do rei.\nAntes do julgamento, o
+    soberano desapareceu sem deixar testemunhas.\nA capit\xE3 fugiu levando a lan\xE7a
+    cerimonial que guardava o juramento real.\nNa haste, havia uma mensagem secreta
+    escrita pelo fundador do reino.\nA mensagem dizia que a coroa serve ao povo,
+    nunca o contr\xE1rio.\nMaera decidiu provar sua inoc\xEAncia encontrando o rei
+    e os falsificadores.\nAgora combate sem uniforme, embora ainda siga cada regra
+    de sua antiga guarda.\nEla organiza acampamentos, divide suprimentos e sempre
+    assume a primeira vig\xEDlia.\nSua voz firme encerra discuss\xF5es antes que
+    se tornem duelos.\nEm batalha, a lan\xE7a mant\xE9m inimigos longe dos aliados
+    feridos.\nFora dela, Maera evita falar sobre o lar que talvez tenha perdido.\nO
+    manto vermelho ainda carrega o emblema que seus perseguidores reconheceriam.\nEla
+    se recusa a escond\xEA-lo, pois vergonha pertence aos verdadeiros traidores.\nQuando
+    retornar ao Forte Rubro, ser\xE1 para limpar seu nome ou defender seus muros."
+  imagem: {fileID: 21300000, guid: 52d7ec44354974494bef374886323cbd, type: 3}
+  vidaBase: 100
+  danoMinimoBase: 10
+  danoMaximoBase: 20
+  forca: 0
+  velocidade: 0
+  destreza: 0
+  intelecto: 0
+  raiva: 0
+  pontosTotais: 20
+  atributoMaximo: 10
+  bonusRaiva: 0.6
+  esquivaPorPonto: 0.03
+  destrezaPorPonto: 0.03
+  criticoPorPonto: 0.03
+  multiplicadorCritico: 1.5
