@@ -20,7 +20,7 @@ public class AtributeCard : MonoBehaviour
     void Start()
     {
         //CharacterCardData dadosItem = ScriptableObject.CreateInstance<CharacterCardData>();
-        fotoPersonagem.GetComponent<SpriteRenderer>().sprite =  itemData.imagem;
+        fotoPersonagem.GetComponent<Image>().sprite =  itemData.imagem;
       //  vida = int.TryParse(dadosItem.vida);
         
 
