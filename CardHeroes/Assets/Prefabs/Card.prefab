@@ -1185,13 +1185,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AtributeCard
   itemData: {fileID: 11400000, guid: 81d8a1d82819045f58a107cf35c1abde, type: 2}
-  forca: 0
-  velocidade: 0
-  intelecto: 0
-  destreza: 0
-  fotoPersonagem: {fileID: 6099577442666932318}
-  vida: {fileID: 5647635962385526342}
-  descricao: {fileID: 0}
+  fotoPersonagem: {fileID: 7161912672786714858}
+  textoNome: {fileID: 0}
+  indicadorSelecao: {fileID: 0}
+  indicadorEscurecido: {fileID: 0}
 --- !u!1 &8666918156681500344
 GameObject:
   m_ObjectHideFlags: 0
